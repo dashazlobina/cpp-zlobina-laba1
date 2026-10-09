@@ -17,7 +17,9 @@ x=5,25
    отбрасывается. Для этого используется `static_cast<int>(x)`.
 2. Вычесть полученное целое из исходного: `x - static_cast<int>(x)`.
 3. Вернуть результат.
-Тестирование: 
+Тестирование:
+<img width="358" height="151" alt="image" src="https://github.com/user-attachments/assets/0724a8ea-66e5-4578-9ef3-70f9ad891899" />
+
 
 №3
 Текст задачи: 
