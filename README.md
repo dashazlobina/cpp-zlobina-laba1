@@ -19,7 +19,9 @@ x=5,25
 3. Вернуть результат.
 Тестирование:
 <img width="358" height="151" alt="image" src="https://github.com/user-attachments/assets/0724a8ea-66e5-4578-9ef3-70f9ad891899" />
-
+<img width="370" height="161" alt="image" src="https://github.com/user-attachments/assets/5524afb6-1b12-4a61-823d-7ff3ebc66052" />
+<img width="280" height="127" alt="image" src="https://github.com/user-attachments/assets/aa209f4c-68a7-48ec-8ee1-c698f30ad5fc" />
+<img width="355" height="102" alt="image" src="https://github.com/user-attachments/assets/e34e9e48-86df-4976-b5ff-ca0ba36f9acc" />
 
 №3
 Текст задачи: 
