@@ -33,7 +33,9 @@ x=5,25
    из него код символа `'0'`:  return x - '0';
 3. Например, `'3' - '0' = 51 - 48 = 3
 Тестирование:
- 
+<img width="269" height="120" alt="image" src="https://github.com/user-attachments/assets/1e254e20-333c-4423-b5b9-6ed9bef0bd50" />
+<img width="510" height="190" alt="image" src="https://github.com/user-attachments/assets/33c5d531-bc54-4259-8cac-e6c78b46e7d3" />
+
 №5
 Текст задачи: 
 Двузначное. Дана сигнатура функции: bool is2Digits (int x); Необходимо реализовать функцию таким образом, чтобы она принимала число x и возвращала true, если оно двузначное. Пример 1: x=32 результат: true Пример 2: x=516 результат: false 
@@ -42,6 +44,9 @@ x=5,25
 2. Проверить, что модуль лежит в диапазоне `[10, 99]` включительно: return abs_x >= 10 && abs_x <= 99;
 3. Если да — вернуть `true`, иначе — `false`.
 Тестирование: 
+<img width="276" height="120" alt="image" src="https://github.com/user-attachments/assets/095602d8-f2b8-4172-a4c9-a5ed2fb30e80" />
+<img width="338" height="134" alt="image" src="https://github.com/user-attachments/assets/6e841148-f7b8-4e79-9cf2-00351d4654cf" />
+<img width="304" height="120" alt="image" src="https://github.com/user-attachments/assets/078371fa-3a45-4cb6-a9b1-641514fe0e5b" />
 
 №7
 Текст задачи: 
@@ -55,7 +60,11 @@ if (a > b) {
 }
 2. Проверить, что `num` больше или равен `a` и меньше или равен `b`:  return num >= a && num <= b;
 3. Если да — вернуть `true`, иначе — `false`.
-Тестирование: 
+Тестирование:
+<img width="311" height="192" alt="image" src="https://github.com/user-attachments/assets/80b0d6af-505f-41bc-b659-2395be520d4a" />
+<img width="287" height="181" alt="image" src="https://github.com/user-attachments/assets/00643b5f-3f20-4f6d-a968-8c5b1ba97045" />
+<img width="292" height="182" alt="image" src="https://github.com/user-attachments/assets/814f2f9d-037c-46b0-9392-e692fb1370b1" />
+<img width="278" height="189" alt="image" src="https://github.com/user-attachments/assets/5c57b54c-7c5f-481b-b905-521587c7ca41" />
 
 №9
 Текст задачи: 
